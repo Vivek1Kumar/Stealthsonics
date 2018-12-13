@@ -1,0 +1,127 @@
+.font{
+    font-size: 14px;
+}
+
+.back{
+    min-height: 300px;
+    background:url('../../assets/image/media_b.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(6, 7, 7, 0.349);
+    
+    }
+    .head{
+        padding-left: 6px;
+    padding-top: 17px;
+    font-size: 19px;
+
+    font-weight: 600;
+    text-align: left;
+    }
+    .head-para{
+        padding-left: 6px;
+        padding-top: 4px;
+        font-size: 13.5px;
+
+        text-align: left;
+    }
+   
+    .sum{
+        height: 200px;
+        width: 200px;
+        background-color:#f9f9f9;
+        position: relative;
+left:31px;
+    height: 279px;
+    width: 352px;
+
+    }
+    .sum-two{
+        height: 200px;
+        width: 200px;
+        background-color:#f9f9f9;
+        position: relative;
+        left: 58px;
+
+
+    height: 279px;
+    width: 346px;
+    }
+    .bat{
+        margin-top: 26px;
+
+    }
+    .bat-two{
+        margin-top: 12px;
+
+
+    }
+    .bat-three{
+        margin-top: 28px;
+
+    }
+    .move{
+        position: absolute;
+    right: -29px;
+    }
+
+    .kit-margetop
+    {
+        margin-top:10px;
+        padding-top: 60px;
+    }
+
+    .mediakit-btn
+    {
+        min-height: 120px;
+        min-width: 250px;
+
+    }
+
+    
+ .cardboxes-kit
+ {
+     background: #F9F9F9;
+     text-align: center;
+     max-width: 320px;
+     padding: 10px;
+     overflow: hidden;
+     margin-bottom: 5px;
+ }
+ 
+ .card-img-home
+ {
+     height: 200px;
+     width:100%;
+ }
+
+ .newshead
+{
+    color: white;
+    z-index: 1;
+    text-align: center;
+    padding-top: 190px;
+    font-size: xx-large; 
+}
+.nopad
+{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+ .jumbooo
+ {
+    background-image: url("https://stealthsonics.com/wp-content/uploads//2018/07/media_b.jpg?id=7268");
+    background-position: 50% 50%;
+     background-size: cover;
+      transform: translate3d(0px, -0.5px, 0px); 
+      display: block;
+      min-height: 300px;
+      z-index: 0;
+ }
+
+ .nomaj2
+{
+    margin-left: 0px;
+    margin-right: 0px;
+}

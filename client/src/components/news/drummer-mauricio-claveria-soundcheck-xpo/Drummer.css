@@ -1,0 +1,10 @@
+div.jumbotron.hero-natures{
+    color:#fff;
+    text-align:center;
+    background:url('../../../assets/image/soundcheck1-300x187.jpg');
+    background-size:cover;
+    background-position:center;
+    padding-top:100px;
+    padding-bottom:70px;
+
+}

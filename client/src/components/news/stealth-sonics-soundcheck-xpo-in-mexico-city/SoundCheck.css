@@ -1,0 +1,10 @@
+div.jumbotron.hero-nature{
+    color:#fff;
+    text-align:center;
+    background:url('../../../assets/image/troy_vincent-798x464.jpg');
+    background-size:cover;
+    background-position:center;
+    padding-top:100px;
+    padding-bottom:70px;
+
+}

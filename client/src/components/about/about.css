@@ -1,0 +1,79 @@
+
+h3 {
+    color: black;
+    text-align: left;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h5
+{
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    margin-left:  0px;
+    font-weight: bold;
+    font-style: italic;
+    text-align:left;
+
+}
+
+.container
+{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+p
+{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5,p
+{
+    color: black;
+}
+
+.card1
+{
+    border: 1px solid lightgray;
+}
+
+.mb-10
+{
+    margin-bottom: 20px;
+}
+
+h4
+{
+    font-weight: bolder;
+    text-align: left;
+    color: black;
+    font-family: 'Poppins',sans-serif;
+    margin-left: 0;
+}
+
+.content-1
+{
+    color: black;
+    font-family: 'Poppins',sans-serif;
+    text-align: left !important;
+}
+
+.mt-20
+{
+    margin-top:50px;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.marge-bot2
+{
+margin-bottom: 50px;
+}
+.title-h4 h4{
+    margin-left: 0;
+    font-size: 20px;
+}

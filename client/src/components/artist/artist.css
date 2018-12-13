@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+}
+
+h2{
+    color: #666666;
+    text-align: left;
+
+
+}
+li{
+    color: #8f9296;
+    text-align: left;
+
+}
+
+.cardName {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+p.card-text {
+    text-align: left;
+    padding-top: 5px !important;
+    padding-left: 28px;
+}
+ul.artist_list{
+	padding-left: 15px;
+}
+.artist_list li{
+	list-style-type: disc;
+	color: #56c8e1;
+}
+.card-body h4{
+	color: #56c8e1;
+}

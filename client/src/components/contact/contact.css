@@ -1,0 +1,68 @@
+h2,p,h4,h3,label
+{
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.mb-10
+{
+    margin-bottom: 20px;
+}
+h2
+{
+    font-size:30px;
+    
+}
+
+p
+{
+    font-size: 13px !important;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.pn
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.mn
+{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important; 
+}
+
+.no-margin
+{
+    margin: 0px;
+}
+
+label
+{
+    float: left;
+}
+
+.btn1
+{
+   float: left;
+   color: black;
+   background: white;
+   border: 1px solid lightgray;
+   min-width: 100px;
+   min-height: 40px
+}
+
+.cent
+{
+    text-align: left;
+}
+
+.marge-bot1
+{
+margin-bottom: 50px;
+padding-top: 30px;
+}

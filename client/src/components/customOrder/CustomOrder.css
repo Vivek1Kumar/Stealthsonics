@@ -1,0 +1,1410 @@
+.vc_btn3.vc_btn3-color-juicy-pink,
+.vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat {
+    color: #fff;
+    background-color: #4dc5df
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
+.vc_btn3.vc_btn3-color-juicy-pink,
+.vc_btn3.vc_btn3-color-juicy-pink.vc_btn3-style-flat:hover {
+    color: #fff;
+    background-color: #4d98f7
+}
+
+.vc_btn3-container.vc_btn3-left {
+    text-align: center
+}
+
+.fts-jal-fb-header {
+    font-size: 8px;
+    text-align: center;
+    color: #fff;
+    visibility: hidden;
+    margin-top: -25px
+}
+
+#main-footer.style-light .widget h3 {
+    color: #fff;
+    font-size: 14px;
+    text-align: center
+}
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title h2,
+.blog-container article .content header h3 {
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: normal
+}
+
+body {
+    font-family: Poppins;
+    line-height: 17px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px
+}
+.p-t-100 {
+    padding-top: 20px !important
+}
+
+.p-b-80 {
+    padding-bottom: 40px !important
+}
+.vc_custom_1531725050508 {
+    margin-top: 40px !important
+}
+
+.vc_custom_1532542668927 {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+    background-position: center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important
+}
+
+.vc_custom_1530550575674 {
+    padding-top: 40px !important;
+    padding-right: 60px !important;
+    padding-bottom: 40px !important;
+    padding-left: 60px !important
+}
+.wpb_animate_when_almost_visible {
+    opacity: 1
+}
+.icon_box img {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    display: -webkit-box;}
+
+.box_div h2{    text-align: center;
+    font-size: 50px;
+    border-bottom: 1px solid #e8e6e6;
+    width: 80%;
+    margin: auto;
+    color: #96deee;}
+    .icon_box{border-bottom: 1px solid #e8e6e6; margin-bottom: 21px;}
+    .box_div2{text-align: center;}
+    .box_div2 h3{font-size: 20px;}
+.drivers span {
+    font-size: 17px;
+    display: block;
+    color: #333;
+    font-weight: bold;
+}
+.drivers {
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+    color: #333;
+    margin-bottom: 15px;
+}
+    .panel-heading .accordion-toggle:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+    content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+    float: right;        /* adjust as needed */
+    color: grey;         /* adjust as needed */
+}
+.panel-heading .accordion-toggle.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+.buttom_div {
+    border: 1px solid #d6d4d4;
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+}
+
+.buttom_div_left {
+    width: 80%;
+    float: left;
+    padding: 0px 25px 23px;
+}
+.buttom_div_right{ background: #dbdbdb; width: 21%;
+    float: left; padding: 10px;
+    font-size: 17px;
+    text-align: center; }
+    .vc_btn3.vc_btn3-size-md {
+    font-size: 14px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.main_div {
+    background: url(main_div.jpg);
+    width: 100%;
+    height: 461px;
+    background-position: top;
+    background-size: cover;
+   /* display: flex;*/
+    justify-content: center;
+    align-items: center;
+}
+
+.pro_left {
+    margin-right: 40px;
+}
+
+.pro_right {
+    position: absolute;
+    bottom: 18%;
+    width: 178px; z-index: 999;
+    float: right;
+    clear: left;
+    right: 132px;
+}
+.pro_left {
+    margin-right: 40px;
+    position: absolute;
+    bottom: 18%; z-index: 999;
+    width: 174px;
+    margin-left: 155px;
+}
+
+.pro_left span {
+    position: absolute;
+    top: 65px;
+    left: 58px;
+    z-index: 0;
+}
+.pro_right span {
+    position: absolute;
+    left: -24px;
+    top: 65px;
+}
+.shell_div ul{margin: 0px; padding: 0px; list-style: none; margin-bottom: 10px;}
+.shell_div ul li {
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.shell_div ul li img{ width: 100%;}
+.bottom_shell {
+    position: absolute;
+    display: flex;
+    bottom: 49px;
+    left: 240px;
+}
+.shell_right{width: 100px;
+    transform: rotate(-6deg);}
+ .shell_left{    width: 100px;
+    transform: rotate(-19deg);
+    margin-right: 20px;}   
+   .shell_div h3 {
+    width: 100%;
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    color: #3c3a3a;
+    margin-bottom: 10px;
+}
+label > input{ 
+    visibility: hidden; 
+    position: absolute; 
+}
+
+label > input + img{ 
+    cursor:pointer;
+    
+}
+
+label > input:checked + img{ 
+    border:none;
+}
+.custom-font-text-1539679681-881091173 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-795702252 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-1677665140 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-184091343 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-947161631 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-478002960 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-1739592047 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-1105007133 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-1729424814 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-1578370877 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-467527994 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-364919667 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+.custom-font-text-1539679681-2099969502 {
+    font-family: default, san-serif;
+    font-weight: 300;
+    font-style: normal
+}
+
+/*****************/
+/* new */
+/***************/
+.group-btn span{
+    background :red;
+    width: 100%;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+    border-radius: 8px;
+    margin-top: -11px;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.item-specifications{
+    height: auto; 
+    background-color: #e0e2de;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+.item-specifications h4{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    margin-bottom: 10px;
+}
+.item-specifications label{
+    display: block;
+    float: none;
+    text-align: left;
+}
+.item-specifications label span{
+    font-weight: normal
+}
+.item-customize{
+    height: 450px;
+    background-color: #e0e2de;
+    padding: 20px 0;
+}
+.price-title h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.specification-price{
+    background-color: #e0e2de;
+    margin: 20px 0 30px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+.product-preview
+{
+    position: relative;
+    display: block;
+    font-family: 'Conv_good times rg';
+    
+}
+.product-preview img{
+    position: relative;
+    
+}
+.product-preview span 
+{
+    position: absolute;
+    display: block;
+}
+.item-pricing
+{
+    text-align: center;
+    padding: 82px 12px;
+    background-color: #e0e2de;
+}
+.item-pricing h3{
+    margin-bottom: 0;
+    font-weight: normal;
+}
+.item-pricing p{
+    font-size: 24px;
+    padding: 5px 0;
+}
+.earphone_wire{
+    width: auto;
+    height: 360px;
+    margin-left: -225px;
+    margin-top: -15px;
+    position: absolute !important;
+}
+.earphone_wire img{
+    position: absolute !important;
+}
+.front-faceplate-left{
+    width: 202px;
+    height: 329px;
+    z-index: 1px;
+    margin-top: 0px;
+    margin-left: 0px;
+    position: absolute !important;
+    transform: translate(-197px, -14px);
+}
+.front-faceplate-right{
+    width: 202px;
+    height: 329px;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    transform: translate(20px, -10px);
+}
+.shell-right{
+    width: 211px;
+    height: 341px;
+    position: absolute;
+    transform: translate(18px, -19px );
+}
+.shell-left{
+    width: 249px;
+    height: 326px;
+    margin-left: -204px;
+    margin-top: -14px;
+    position: absolute !important;
+    transform: rotate(6deg);
+}
+.button-column{
+    margin-bottom: 50px;
+}
+#wrapper-left {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 32%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+#wrapper-right {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 69%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+
+/*.st-logo-left{
+    width: 86px;
+    margin-left: 0px;
+    margin-top: -40px;
+    z-index: 1;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    /*transform: translate(160px, 215px);
+    transform: translate(144px, 182px);
+    border-radius:30%;
+}
+.st-logo-right{
+    width: 86px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    transform: translate(170px, 200px);
+    border-radius:30%;
+}
+
+.caseing-container{
+    width: auto;
+    height: 331px;
+    margin:30px auto 120px;
+    position: initial;
+}
+/*.custom-text-box-right{
+    font-size: 25px !important;
+    transform: translate(330px, 200px) !important;
+    position: absolute !important;
+}
+*/
+
+/* *
+@media only screen and (max-width: 1440px){
+.front-faceplate-right{
+    width: 202px;
+    height: 329px;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(38px, -10px);
+    transform: translate(38px, -10px);
+}
+.shell-right{
+    width: 211px;
+    height: 341px;
+    position: absolute;
+    -webkit-transform: translate(36px, -19px);
+    transform: translate(36px, -19px );
+}
+.st-logo-right {
+    width: 86px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(415px, 182px);
+    transform: translate(415px, 182px);
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 22px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(397px, 216px);
+    transform: translate(397px, 216px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.st-logo-left {
+    width: 70px !important;
+    z-index: 9 !important;
+    margin-top: 0 !important;
+    -webkit-transform: translate(190px, 216px) !important;
+    transform: translate(190px, 216px) !important;
+}
+.custom-text-box-left{
+    font-size: 22px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(172px, 216px) !important;
+    transform: translate(172px, 216px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: none;
+    position: absolute !important;
+}
+/**********************/
+
+@media only screen and (max-width: 1360px){
+.front-faceplate-right{
+    width: 202px;
+    height: 329px;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(7px, -10px);
+    transform: translate(7px, -10px);
+}
+.shell-right{
+    width: 211px;
+    height: 341px;
+    position: absolute;
+    -webkit-transform: translate(7px, -19px);
+    transform: translate(7px, -19px );
+}
+.st-logo-right {
+    width: 86px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(400px, 198px);
+    transform: translate(400px, 198px);
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 22px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(379px, 216px);
+    transform: translate(379px, 216px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.st-logo-left {
+    width: 86px !important;
+    z-index: 9 !important;
+    margin-top: 0 !important;
+    -webkit-transform: translate(162px, 216px) !important;
+    transform: translate(162px, 216px) !important;
+}
+.custom-text-box-left{
+    font-size: 25px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(145px, 216px) !important;
+    transform: translate(145px, 216px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: none;
+    position: absolute !important;
+}
+/*.st-logo-right-upload{
+    z-index: 999;
+    left: 380px;
+    top: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.st-logo-left-upload{
+    z-index: 999;
+    left: 150px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}*/
+/**********************/
+}
+@media only screen and (max-width: 1280px){
+.front-faceplate-right{
+    width: 202px;
+    height: 329px;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(0px, -10px);
+    transform: translate(0px, -10px);
+}
+.shell-right{
+    width: 211px;
+    height: 341px;
+    position: absolute;
+    -webkit-transform: translate(-2px, -19px);
+    transform: translate(-2px, -19px );
+}
+.st-logo-right {
+    width: 86px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(375px, 182px);
+    transform: translate(375px, 182px);
+    border-radius: 0;
+}
+/*.st-logo-right-upload{
+    width: 100px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 50% !important;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(339px, 138px);
+    transform: translate(339px, 138px);
+}*/
+.custom-text-box-right{
+    font-size: 20px;
+    margin-top: 0px;
+    -webkit-transform: translate(359px, 210px);
+    transform: translate(359px, 210px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.st-logo-left {
+    width: 70px !important;
+    z-index: 9 !important;
+    margin-top: 0 !important;
+    -webkit-transform: translate(150px, 216px) !important;
+    transform: translate(150px, 216px) !important;
+}
+/*.st-logo-left-upload{
+    width: 100px;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 50% !important;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(134px, 138px);
+    transform: translate(134px, 138px);
+}*/
+.custom-text-box-left {
+    font-size: 20px !important;
+    margin-top: 0px;
+    border: none;
+    -webkit-transform: translate(124px, 210px) !important;
+    transform: translate(124px, 210px) !important;
+
+}
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+.front-faceplate-right {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    margin-left: 0 !important;
+    position: absolute !important;
+    -webkit-transform: translate(-143px, 58px);
+    transform: translate(-143px, 58px) !important;
+}
+.shell-right{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 52px !important;
+    margin-left: -142px !important;
+}
+.st-logo-right {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(206px, 216px) !important;
+    transform: translate(206px, 216px) !important;
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(183px, 210px);
+    transform: translate(183px, 210px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.front-faceplate-left {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(-129px, 54px) !important;
+    transform: translate(-129px, 54px) !important;
+}
+.shell-left{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 30px !important;
+    margin-left: -128px !important;
+}
+.st-logo-left {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: -40px;
+    z-index: 1;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(52px, 216px) !important;
+    transform: translate(52px, 216px) !important;
+    border-radius: 0;
+    position: absolute !important;
+}
+.custom-text-box-left {
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(22px, 211px) !important;
+    transform: translate(22px, 211px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+    border: none;
+}
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+.front-faceplate-right {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    margin-left: 0 !important;
+    position: absolute !important;
+    -webkit-transform: translate(-127px, -15px) !important;
+    transform: translate(-127px, -15px) !important;
+}
+.shell-right{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 52px !important;
+    margin-left: -123px !important;
+}
+.st-logo-right {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(225px, 216px) !important;
+    transform: translate(225px, 216px) !important;
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(210px, 210px);
+    transform: translate(210px, 210px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.front-faceplate-left {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(-129px, 54px) !important;
+    transform: translate(-129px, 54px) !important;
+}
+.shell-left{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 30px !important;
+    margin-left: -128px !important;
+}
+.st-logo-left {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: -40px;
+    z-index: 1;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(74px, 216px) !important;
+    transform: translate(74px, 216px) !important;
+    border-radius: 0;
+    position: absolute !important;
+}
+.custom-text-box-left {
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(47px, 211px) !important;
+    transform: translate(47px, 211px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+    border: none;
+}
+
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+.navbar{
+    height: 100px;
+}
+.front-faceplate-right {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(37px, 56px) !important;
+    transform: translate(37px, 56px) !important;
+}
+.shell-right{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 52px !important;
+    margin-left: -31px !important;
+}
+.st-logo-right {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(387px, 216px) !important;
+    transform: translate(385px, 216px) !important;
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(362px, 210px) !important;
+    transform: translate(362px, 210px) !important;
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.front-faceplate-left {
+    width: 140px !important;
+    height: 224px !important;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(-129px, 54px);
+    transform: translate(-129px, 54px);
+}
+.shell-left{
+    width: 162px !important;
+    height: 262px !important;
+    margin-top: 30px !important;
+    margin-left: -128px !important;
+}
+.st-logo-left {
+    width: 70px !important;
+    margin-left: 0px;
+    margin-top: -40px;
+    z-index: 1;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(228px, 216px) !important;
+    transform: translate(228px, 216px) !important;
+    border-radius: 0;
+    position: absolute !important;
+}
+.custom-text-box-left {
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(199px, 211px) !important;
+    transform: translate(199px, 211px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+    border: none;
+}
+
+}
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+
+
+/* ----------- iPhone X ----------- */
+
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+.front-faceplate-right {
+    width: 145px !important;
+    height: 256px !important;
+    margin-top: 52px !important;
+    margin-left: -145px;
+    -webkit-transform: translate(-144px, -14px) !important;
+    transform: translate(-144px, -14px) !important;
+}
+.shell-right {
+    width: 184px !important;
+    height: 256px !important;
+    margin-left: -147px !important;
+    margin-top: 57px !important;
+}
+.st-logo-right{
+    width: 70px;
+    -webkit-transform: translate(192px, 188px);
+    transform: translate(213px, 217px) !important;
+}
+.custom-text-box-right{
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(184px, 210px);
+    transform: translate(184px, 210px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.front-faceplate-left {
+    width: 145px !important;
+    height: 256px !important;
+    margin-left: 0px !important;
+    -webkit-transform: translate(-135px, 40px) !important;
+    transform: translate(-135px, 40px) !important;
+}
+.shell-left{
+    width: 184px !important;
+    height: 289px !important;
+    margin-left: -142px !important;
+    margin-top: 15px !important;
+}
+.st-logo-left {
+    width: 70px !important;
+    z-index: 9 !important;
+    margin-top: 0 !important;
+    -webkit-transform: translate(50px, 216px) !important;
+    transform: translate(50px, 216px) !important;
+}
+.custom-text-box-left {
+    font-size: 16px !important;
+    -webkit-transform: translate(15px, 250px) !important;
+    transform: translate(16px, 210px) !important;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    border: none;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+}
+#wrapper-left {
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 25%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+#wrapper-right {
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 82%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+
+
+
+/***********************/
+}
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+.navbar {
+    background: white;
+    height: auto;
+    box-shadow: 0px 0px 8px 0.5px #000000;
+}
+.front-faceplate-right {
+    width: 202px;
+    height: 329px;
+    z-index: 2;
+    margin-top: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(69px, -10px);
+    transform: translate(69px, -10px);
+}
+.shell-right {
+    width: 211px;
+    height: 341px;
+    position: absolute;
+    -webkit-transform: translate(67px, -19px );
+    transform: translate(67px, -19px );
+}
+.st-logo-right {
+    width: 86px;
+    margin-left: 0px;
+    margin-top: 0px;
+    z-index: 1;
+    border-radius: 30%;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(454px, 219px);
+    transform: translate(454px, 219px);
+    border-radius: 0;
+}
+.custom-text-box-right{
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(423px, 210px);
+    transform: translate(423px, 210px);
+    margin-left: -6px;
+    position: inherit;
+    z-index: 1;
+    width: 130px;
+    background: transparent;
+    text-align: center;
+    border: none;
+    color: rgb(235, 237, 234);
+}
+.st-logo-left {
+    width: 86px !important;
+    margin-left: 0px;
+    margin-top: -40px;
+    z-index: 1;
+    border-radius: 15px;
+    position: relative;
+    display: block;
+    -webkit-transform: translate(216px, 216px) !important;
+    transform: translate(216px, 216px) !important;
+    border-radius: 0;
+    position: absolute !important;
+}
+.custom-text-box-left {
+    font-size: 16px !important;
+    margin-top: 0px;
+    -webkit-transform: translate(199px, 211px) !important;
+    transform: translate(199px, 211px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+    border: none;
+}
+#wrapper-left {
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 34%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+#wrapper-right {
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+    margin: 10px 0 0 0;
+    border: none;
+    position: absolute;
+    z-index: 999;
+    left: 66%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 50%;
+
+}
+
+
+}
+
+/* ----------- iPhone X ----------- */
+
+
+
+@media only screen and (max-width: 768px){
+.mobile-hide{
+
+}
+/*.shell-left{
+    width: 184px !important;
+    height: 289px !important;
+    margin-top: 14px !important;
+    margin-left: -145px !important;
+}
+.shell-right{
+    margin-left: -129px;
+    width: 184px;
+    height: 289px;
+    margin-top: 14px;
+}*/
+/*.front-faceplate-left {
+    width: 160px;
+    height: 261px;
+    z-index: 2;
+    margin-top: 49px;
+    margin-left: -145px;
+    position: absolute !important;
+    -webkit-transform: translate(0px, -14px);
+    transform: translate(0px, -14px);
+}
+.front-faceplate-right {
+    width: 160px;
+    height: 261px;
+    z-index: 2;
+    margin-top: 49px;
+    margin-left: -145px;
+    position: absolute !important;
+    -webkit-transform: translate(0px, -14px);
+    transform: translate(0px, -14px);
+}
+*/
+
+.specification-price{
+    padding:0 15px;
+}
+.earphone_wire {
+    width: 320px;
+    height: auto;
+    margin-left: -150px;
+    margin-top: 50px;
+    position: absolute !important;
+}
+.caseing-container{
+    height: 100%;
+    margin:30px auto 60px;
+    position: initial;
+}
+.caseing-container img{
+    width: 280px;
+}
+
+
+
+}
+/* Portrait 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+.custom-text-box-right{
+    font-size: 18px !important;
+    transform: translate(192px, 200px) !important;
+    position: absolute !important;
+}
+.custom-text-box-left{
+    font-size: 18px !important;
+    margin-top: 0px;
+    transform: translate(0px, 200px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    border: 1px solid #000;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+}
+
+}
+*/
+/* Landscape 
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+.front-faceplate-right{
+    width: 160px;
+    height: 261px;
+    z-index: 2;
+    margin-top: 45px;
+    margin-left: 0px;
+    position: absolute !important;
+    -webkit-transform: translate(0px, -14px);
+    transform: translate(0px, -14px);
+}
+.shell-right {
+    margin-left: 15px;
+}
+.st-logo-right {
+    width: 70px;
+    -webkit-transform: translate(216px, 170px) !important;
+    transform: translate(359px, 190px) !important;
+}
+.st-logo-left {
+    width: 70px !important;
+    z-index: 9 !important;
+    -webkit-transform: translate(181px, 208px) !important;
+    transform: translate(181px, 220px) !important;
+}
+.custom-text-box-right{
+    font-size: 18px !important;
+    transform: translate(192px, 200px) !important;
+    position: absolute !important;
+}
+.custom-text-box-left{
+    font-size: 18px !important;
+    margin-top: 0px;
+    transform: translate(0px, 200px) !important;
+    margin-left: 0px;
+    position: inherit;
+    z-index: 999 !important;
+    width: 130px;
+    background: #cf595900;
+    text-align: center;
+    border: 1px solid #000;
+    color: rgb(0, 0, 0);
+    position: absolute !important;
+}
+
+}
+*/

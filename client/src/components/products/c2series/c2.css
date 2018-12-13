@@ -1,0 +1,338 @@
+.full{
+    overflow: hidden;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.man{
+    height: 600px;
+    background:url('../../../assets/image/rocker_18538390.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(6, 7, 7, 0.349);
+    position: relative;
+    top: -246px;
+    
+
+    }
+    
+.guitar{
+    min-height: 400px;
+    background:url('../../../assets/image/morejustarms.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(6, 7, 7, 0.349);
+    position: relative;
+    top: -271px;
+
+    
+    }
+    .last{
+        height: 400px;
+        width: 100%;
+    }
+    .take{
+        top: 70vh;
+        position: absolute;
+        left: 456px;
+
+      color:white;
+    }
+    .git{
+        
+
+      color:white;
+      font-size: 14px;
+      /* white-space:nowrap;  */
+      padding-top: 22px;
+      padding-left: 24px;
+
+
+
+    }
+    .git-one{
+        color:white;
+        font-size: 22px;
+        padding-top: 43px;
+
+    padding-left: 31px;
+    
+    }
+    .second{
+        width:100%;
+         height:1200px;
+          background-Color:black;
+          margin-left:0px;
+           margin-top:0px;
+           position: relative;
+          /*top: -250px;*/
+    }
+    .custom{
+        text-align: center;
+         /*margin-right:100px;
+         margin-top:70px;
+         position: relative;
+         top: 27px;
+         right: 279px*/
+    }
+.new{
+    min-height: 400px;
+}
+
+    h2 span 
+{
+    display: block;
+}
+.position{
+    position: relative;
+    top: -271px;
+    margin-bottom: 8vh;
+
+
+}
+
+.steal-two{
+    padding-top: 8px;
+
+
+}
+.steal{
+    color:black;
+}
+
+.round-details-container {
+	max-width: 913px;
+
+	padding-bottom: 95px
+}
+
+.images {
+	
+	overflow: hidden;
+	
+     -webkit-box-shadow: 0 8px 6px -6p #e0e5ea;
+     -moz-box-shadow: 0 8px 6px -6px #e0e5ea;
+          box-shadow: 0 8px 6px -6px #e0e5ea;
+     height:200px;
+     width:91.5%;
+     margin-left: 48px;
+
+    margin-top: 40px;
+
+}
+.edit{
+    height: 150px;
+    width: 170px;
+    height: 189px;
+    border-right: 1px solid  #e0e5ea;
+
+
+   
+}
+.edit:hover{
+    height: 150px;
+    width: 170px;
+    height: 189px;
+    border-right: 1px solid  #e0e5ea;
+    /* background-image: url('.); */
+
+   
+}
+/*.product-carousel{
+    display: flex;
+}*/
+@media screen and (max-width: 768px){
+.second{
+    height: 100% !important;
+}
+
+}
+@media screen and (max-width: 480px){
+    
+.man{
+    height: 621px;
+    background: url(/static/media/rocker_18538390.489bf939.jpg);
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgba(6, 7, 7, 0.349);
+    position: relative;
+    background-size: 400px 666px;
+    top: -91px;
+    /* height: 489px; */
+    width: 100vw;
+}
+.take{
+    top: 70vh;
+    position: absolute;
+    left: 456px;
+
+  color:white;
+}
+
+.fit2
+{
+    height: 500px;
+}
+
+.product-back
+{
+    background: black;
+}
+
+.cardo1
+{
+    background: url("../../../assets/image/c_2_aug.png") ;
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    margin-right:5px;
+    border-right: 1px solid  #e0e5ea;
+
+}
+.cardo1:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/c2_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    margin-right:5px;
+    border-right: 1px solid  #e0e5ea;
+}
+
+.col-md-2
+{
+    padding: 0px;
+}
+.cardo2
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/C_4_aug.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+
+}
+.cardo2:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/c4_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+}
+
+.cardo3
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/C_9aug.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+
+}
+.cardo3:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/c9_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 180px;
+}
+
+.cardo4
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/us_product.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+
+}
+.cardo4:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/u2_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+}
+
+.cardo5
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/u4_product.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+
+}
+.cardo5:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/u4_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+}
+
+.cardo6
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/u9_product.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+
+}
+.cardo6:hover
+{
+    background: url("https://stealthsonics.com/wp-content/uploads//2018/07/u9_pop2.png");
+    background-size: 100% 100%;
+    height: 180px;
+    width: 160px;
+    border-right: 1px solid  #e0e5ea;margin-right:5px;
+}
+
+.nomaj-no
+{
+    margin: 0px;
+    -webkit-box-shadow: 0 8px 6px -6p #e0e5ea;
+    -moz-box-shadow: 0 8px 6px -6px #e0e5ea;
+         box-shadow: 0 8px 6px -6px #e0e5ea;
+         margin-top:40px;
+}
+}

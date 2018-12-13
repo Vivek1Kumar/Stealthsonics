@@ -1,0 +1,30 @@
+/*.btnContainer
+{
+	width: 100px;
+	height: 100px;
+	border: 1px solid #333;
+	background: #efefef;
+	margin: 10px;
+}
+
+a, .btn
+{
+	margin: 10px;
+	color: #fff !important;
+}
+
+.red{
+	background: red;
+}
+.blue{
+	background: blue;
+}
+.green{
+	background: green;
+}
+.activeBtn
+{
+	background: red;
+	margin: 10px;
+	color: black;
+}*/

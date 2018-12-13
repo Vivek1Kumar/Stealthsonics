@@ -1,0 +1,82 @@
+*:hover, *:focus, *:visited{
+  box-shadow: none !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.changeBg input {
+  border-radius: 0;
+}
+.changeBg label{
+  font-size: 14px;
+  font-weight: normal;
+}
+.upload-img{
+  display: block;
+  position: relative;
+  padding: 10px 10px;
+  width: 50%;
+  float: left;
+}
+.upload-img label{
+  text-align: center;
+  font-weight: normal;
+  display: block;
+}
+.upload-container{
+display: block;
+position: relative;
+background: #dadada;
+border: 1px dashed #969696;
+padding: 25px 18px;
+width: 100%;
+min-height: 85px;
+}
+
+.changeLogo img{
+   width: 80px ; 
+   height: auto;
+   float: none;
+   margin-right: 10px;
+}
+
+#address{
+  margin-top: -15px;
+}
+.artwork-color{
+     margin-top: -25px;
+  
+}
+.color-black{
+  color:"#000000";
+  font-size:12px;
+  
+
+}
+.logo-margin{
+  margin: 12px 0px;
+}
+.address-color{
+  text-align:left;
+}
+.name-span{
+  float: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+@font-face {
+  font-family: 'Conv_good times rg';
+  src: url('../../../assets/fonts/good times rg.eot'),
+       url('../../../assets/fonts/good times rg.woff') format('woff'), 
+       url('../../../assets/fonts/good times rg.ttf') format('truetype'), 
+       url('../../../assets/fonts/good times rg.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.product-preview
+{
+    position: relative;
+    display: block;
+    font-family: 'Conv_good times rg';
+    
+}

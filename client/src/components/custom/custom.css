@@ -1,0 +1,77 @@
+
+.black
+{
+    background-color: black;
+    min-height: 150px;
+}
+
+.main-0
+{
+    color: white !important;
+    font-size: x-large;
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.card-co
+{
+    padding: 30px;
+    min-width: 340px;
+    background: white !important;
+    border: 1px solid lightgray;
+    -webkit-box-shadow: 0 5px 26px 0 #e0e5ea;
+    margin: 20px 0;
+
+
+}
+.cardimg1
+{
+    height: 120px;
+    justify-content: center;
+    align-content: center;
+}
+
+.pm-none
+{
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  text-align: center;
+}    
+
+center
+{
+    text-align: center;
+    align-content: center;
+}
+
+.blue
+{
+    text-align: center;
+    color: #96DEEE;
+    
+}
+
+.mb-2
+{
+    margin-bottom: 20px;
+}
+
+.mb-3
+{
+    margin-bottom: 30px;
+    height: 170px;
+}
+
+.mt-20px
+{
+    margin-top: 50px
+}
+h4.card-title{
+    font-size: 28px;
+    font-family: 'Open Sans', sans-serif;
+}
+.card-co a{
+    word-spacing: 0 !important;
+}
